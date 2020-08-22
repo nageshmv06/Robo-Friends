@@ -11,6 +11,6 @@ Robo-Rriends ia a React app that lets you search between different API generated
      * Tachyons
      
 ### APIs
-     * [RoboHash](https://robohash.org/)
-     * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+     * [RoboHash](https://robohash.org/).
+     * [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
  
