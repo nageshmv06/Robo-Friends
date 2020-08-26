@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Robo-Friends
+Robo-Friends is a React app that lets you search between different API generated Robots by name. It's fully responsive and functional in different screen sizes.
+## Technologies Used
+###  Front-End
+      HTML
+      CSS3
+      React.js
+     
+###  React Packages
+      Create React App
+      Tachyons
+     
+### APIs
+      RoboHash
+      JSONPlaceholder
+ 
+>>>>>>> 245711118c5d19b17f249a5ef67f41b8d985ee78
